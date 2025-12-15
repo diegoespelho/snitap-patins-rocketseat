@@ -1,7 +1,7 @@
-<h1 align="center">Zingen | Karaokê</h1>
+<h1 align="center">Snitap Patins</h1>
 
 <p align="center">
-Landing Page de marketing completa e responsiva de um aplicativo de karaokê desenvolvido durante curso Full-stack by Rocketseat.
+Landing Page animada desenvolvida durante curso Full-stack by Rocketseat.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Landing Page de marketing completa e responsiva de um aplicativo de karaokê des
 <br>
 
 <p align="center">
-  <img alt="Zingen" src=".github/preview.jpg" width="100%">
+  <img alt="Snitap" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias e Ferramentas
@@ -29,9 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 ## 💻 Projeto
 
-Landing Page de marketing para um aplicativo de karaokê.
+Landing Page animada de patins para praticar animações CSS.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/zingen-karaoke-rocketseat/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/snitap-patins-rocketseat/)
 
 ## 🔖 Layout
 
